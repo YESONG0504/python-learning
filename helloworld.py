@@ -1,2 +1,1 @@
-</>Python
-print("Hello, Ye!")
+print("Hello, world!")
